@@ -1,4 +1,4 @@
-Mutant Detector API
+----- Mutant Detector API -----
 
 Este proyecto permite detectar si un humano es mutante basado en su secuencia de ADN. El proyecto se divide en tres niveles:
 
@@ -10,7 +10,9 @@ Nivel 3: Agrega persistencia en base de datos y estadísticas de ADN verificadas
 
 
 
-Descripción
+
+
+----- Descripción -----
 
 Este proyecto está diseñado para determinar si una persona es mutante en función de su ADN, mediante una API REST en Java Spring Boot. La API permite:
 
